@@ -70,6 +70,8 @@
 <h2 id="tecnologias">🛠 Tecnologias e Ferramentas Utilizadas</h2>
 
 1. <a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
+2. <a href="https://www.python.org/" target="_blank">Python</a>
+
 
 <h2 id="certificado">👨🏾‍🎓 ✅Certificado de Conclusão</h2>
 
